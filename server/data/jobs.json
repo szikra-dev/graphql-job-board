@@ -40,5 +40,23 @@
     "title": "Product Manager",
     "description": "Task for devs",
     "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "BSx3f5Cpg7PfmPuHd_0JE",
+    "title": "Hooks Expert",
+    "description": "A master making custom hooks",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "ScwcJ04SeF8AHehGK0hrE",
+    "title": "Hook Create Job",
+    "description": "using the create job hook",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "3YdVVr-4WtFnfsmSTtrGH",
+    "title": "Test 34",
+    "description": "test 34",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
   }
 ]
