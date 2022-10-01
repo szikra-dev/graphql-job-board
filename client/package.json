@@ -16,9 +16,7 @@
     "react-router-dom": "^6.3.0"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "^2.13.1",
-    "react-scripts": "^5.0.1",
-    "typescript": "^4.8.4"
+    "react-scripts": "^5.0.1"
   },
   "browserslist": {
     "production": [
